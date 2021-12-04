@@ -4,3 +4,6 @@ Steve
 Fury
 Hulk
 Ultron
+Thor
+Odin
+Thanos
